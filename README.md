@@ -1,1 +1,1 @@
-Vue to-do list web app from tutorial. 
+Vue.js to-do list web app.
